@@ -12,5 +12,8 @@ s3:
   endpoint: https://btviayqxqeymggdkilem.supabase.co/storage/v1/s3
   force_path_style: true
 redis:
-  address: "redis://default:CCUEjPawgudeQXuQdznNXJViNEHBrchz@crossover.proxy.rlwy.net:41212"
+  address: "crossover.proxy.rlwy.net:41212"
+  username: "default"
+  password: "CCUEjPawgudeQXuQdznNXJViNEHBrchz"
+
 
