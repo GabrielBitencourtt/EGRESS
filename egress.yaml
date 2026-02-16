@@ -5,8 +5,8 @@ ws_url: ws://SEU_LIVEKIT_INTERNAL:7880
 insecure: true
 enable_chrome_sandbox: false
 s3:
-  access_key: SEU_S3_ACCESS_KEY
-  secret: SEU_S3_SECRET
+  access_key: 0b866dc873a35abdf43565d302bd8fb5
+  secret: ab58b071978fc6a8cbe3659782cbb415295878ba94cd6f83cab7eccc3ddedd69
   bucket: recordings
   region: sa-east-1
   endpoint: https://btviayqxqeymggdkilem.supabase.co/storage/v1/s3
