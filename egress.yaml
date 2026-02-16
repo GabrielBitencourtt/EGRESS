@@ -11,3 +11,6 @@ s3:
   region: sa-east-1
   endpoint: https://btviayqxqeymggdkilem.supabase.co/storage/v1/s3
   force_path_style: true
+redis:
+  address: "redis://default:SUA_SENHA@SEU_REDIS.railway.internal:6379"
+
