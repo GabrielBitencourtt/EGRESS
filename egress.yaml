@@ -1,7 +1,7 @@
 log_level: debug
 api_key: APIsx7V28RDJcpD
 api_secret: H1CVe0FzWjkbvPLxaaGNgOBfwmZtOfoNZvwcVwB7NHaA
-ws_url: ws://SEU_LIVEKIT_INTERNAL:7880
+ws_url: ws://livekit-server.railway.internal:7880
 insecure: true
 enable_chrome_sandbox: false
 s3:
