@@ -9,7 +9,7 @@ s3:
   secret: ab58b071978fc6a8cbe3659782cbb415295878ba94cd6f83cab7eccc3ddedd69
   bucket: recordings
   region: sa-east-1
-  endpoint: https://btviayqxqeymggdkilem.supabase.co/storage/v1/s3
+  endpoint: https://tgumhuxbjkgkxnilpnar.storage.supabase.co/storage/v1/s3
   force_path_style: true
 redis:
   address: "crossover.proxy.rlwy.net:41212"
